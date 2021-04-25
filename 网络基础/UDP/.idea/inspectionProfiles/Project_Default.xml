@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="it_40_函数演示" />
+          <option value="it_47_打印分割线" />
+          <option value="card_tools" />
+          <option value="it_01_测试模块1" />
+          <option value="it_02_测试模块2" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
